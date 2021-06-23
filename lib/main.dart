@@ -10,7 +10,7 @@ class FaceRecog extends StatelessWidget{
     return MaterialApp(
       home: Scaffold(
         appBar: AppBar(
-          title: Center(child: Text("Face Recognition HMM")),
+          title: Center(child: Text("Face Recognition")),
         ),
         body: Container(
           child: Text("Result will show here"),
